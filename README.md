@@ -30,10 +30,11 @@ Create a logo for a video game called "soulsville showdown" that reflects the sp
 
 Certains modèle pour comprendre : 
 
+HUEY
 ![personage](3.ConceptArt/freepik__funky-3d-logo-for-a-video-game-based-on-the-animat__58742-removebg-preview.png)
-
+GRANDAD
 ![personage](3.ConceptArt/freepik__funky-3d-logo-for-a-video-game-based-on-the-animat__58743-removebg-preview.png)
-
+RILEY
 ![personage](3.ConceptArt/freepik__funky-3d-logo-for-a-video-game-based-on-the-animat__58744-removebg-preview.png)
 
 
@@ -41,5 +42,6 @@ Certains modèle pour comprendre :
 
 
 ## 4. Naration
+
 
 ## 5. Musique et Bande-Son
